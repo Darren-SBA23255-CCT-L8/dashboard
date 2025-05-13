@@ -1,4 +1,8 @@
-panel
 pandas
 numpy
-matplotlib
+panel
+hvplot.pandas
+holoviews
+time
+tornado.ioloop
+warnings
