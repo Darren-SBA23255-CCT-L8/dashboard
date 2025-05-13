@@ -1,8 +1,8 @@
 pandas
 numpy
 panel
-hvplot.pandas
+hvplot
 holoviews
-time
-tornado.ioloop
-warnings
+tornado
+tabulator
+bokeh
